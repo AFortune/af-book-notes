@@ -1,0 +1,20 @@
+#+hugo_base_dir: ../
+#+hugo_section: posts
+* First Notes
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: first-notes.md
+  :END:
+  Here is what I have so far.
+  
+* Second Notes
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: second-notes.md
+  :END:
+  Here is what I have so far.
+* Third Notes
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: third-notes.md
+  :END:
+  Here is what I have so far.
+  
+  

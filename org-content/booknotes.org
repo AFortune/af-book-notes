@@ -1,20 +1,26 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
-* First Notes
+#+options: author:nil
+* A New Notebook
   :PROPERTIES:
-  :EXPORT_FILE_NAME: first-notes.md
+  :EXPORT_FILE_NAME: title-post.md
+  :EXPORT_DATE: <2019-07-12 Fri>
   :END:
-  Here is what I have so far.
+  If you are like me you probably own more nice looking notebooks than
+  you have finished writing in. Buying a notebook is mostly like
+  buying a difficult but impressive book to read. When you buy it you
+  are buying what it promises to be for you. It promises to make you
+  well read, or in the case of the notebook, it promises that you will
+  have ideas worth writing down.
+
+  Starting a blog is like this. 
   
-* Second Notes
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: second-notes.md
-  :END:
-  Here is what I have so far.
-* Third Notes
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: third-notes.md
-  :END:
-  Here is what I have so far.
-  
-  
+  This blog is part of a naive attempt to be more public with my ideas
+  and to work harder at drawing myself out into the wider world. This
+  is not my inclination so it will be difficult. The choice of the
+  title comes from Kierkegaard's /Sickness Unto Death/ and I find it
+  fitting for myself today. 
+
+  The despair of possibility is the crippling feeling you get in front
+  of a blank page. Or more broadly it is the feeling you get in the
+  face of the blank rest of your life.

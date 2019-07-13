@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://despairofpossibility.com/posts/title-post/</loc>
+    <lastmod>2019-07-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://despairofpossibility.com/</loc>
+    <lastmod>2019-07-12T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://despairofpossibility.com/posts/</loc>
+    <lastmod>2019-07-12T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,25 +25,8 @@
   </url>
   
   <url>
-    <loc>http://despairofpossibility.com/posts/first-notes/</loc>
-  </url>
-  
-  <url>
-    <loc>http://despairofpossibility.com/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://despairofpossibility.com/posts/second-notes/</loc>
-  </url>
-  
-  <url>
     <loc>http://despairofpossibility.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://despairofpossibility.com/posts/third-notes/</loc>
   </url>
   
 </urlset>

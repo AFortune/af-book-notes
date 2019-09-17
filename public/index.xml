@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Notes</title>
-    <link>http://despairofpossibility.com/</link>
+    <link>https://www.despairofpossibility.com/</link>
     <description>Recent content on Book Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://despairofpossibility.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.despairofpossibility.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Burden of Fascination</title>
+      <link>https://www.despairofpossibility.com/posts/burden-of-fascination/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.despairofpossibility.com/posts/burden-of-fascination/</guid>
+      <description>Something I have noticed about myself is that I am seeminly capable of great things when I am excited about them. This is likely not a unique thing, but what might be more specific to me is the the gulf between me when I am interested in something and when I am just normal. Work that could take 15mins when I am very interested in something at least seems to take more like 45mins when I am not.</description>
+    </item>
+    
+    <item>
+      <title>Typical Experiences</title>
+      <link>https://www.despairofpossibility.com/posts/typical-experiences/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.despairofpossibility.com/posts/typical-experiences/</guid>
+      <description>We have certain experiences that we see as typical to us. This is interesting. We can tell a lot about what we think of ourselves and our identities by what experiences we call typical. What is interesting about them is that the list of things that we do that we see as typical does not necessarily match up with what we actually do all the time. You see this kind of behavior in people who are particularly hard on themselves.</description>
+    </item>
+    
+    <item>
       <title>A New Notebook</title>
-      <link>http://despairofpossibility.com/posts/title-post/</link>
+      <link>https://www.despairofpossibility.com/posts/title-post/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0200</pubDate>
       
-      <guid>http://despairofpossibility.com/posts/title-post/</guid>
+      <guid>https://www.despairofpossibility.com/posts/title-post/</guid>
       <description>If you are like me you probably own more nice looking notebooks than you have finished writing in. Buying a notebook is mostly like buying a difficult but impressive book to read. When you buy it you are buying what it promises to be for you. It promises to make you well read, or in the case of the notebook, it promises that you will have ideas worth writing down.</description>
     </item>
     

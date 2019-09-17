@@ -3,29 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://despairofpossibility.com/posts/title-post/</loc>
-    <lastmod>2019-07-12T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://despairofpossibility.com/</loc>
-    <lastmod>2019-07-12T00:00:00+02:00</lastmod>
+    <loc>https://www.despairofpossibility.com/</loc>
+    <lastmod>2019-07-20T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://despairofpossibility.com/posts/</loc>
+    <loc>https://www.despairofpossibility.com/posts/</loc>
+    <lastmod>2019-07-20T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.despairofpossibility.com/posts/burden-of-fascination/</loc>
+    <lastmod>2019-07-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.despairofpossibility.com/posts/typical-experiences/</loc>
+    <lastmod>2019-07-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.despairofpossibility.com/posts/title-post/</loc>
     <lastmod>2019-07-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.despairofpossibility.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://despairofpossibility.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://despairofpossibility.com/tags/</loc>
+    <loc>https://www.despairofpossibility.com/tags/</loc>
     <priority>0</priority>
   </url>
   

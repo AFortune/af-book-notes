@@ -1,3 +1,4 @@
+#+TODO: Idea Draft Finished-Draft | Done Published
 #+hugo_base_dir: ../
 #+hugo_section: posts
 #+options: author:nil
@@ -432,16 +433,167 @@
   I am not sure if thinking this way will help anything, but I do find
   it interesting.
 
-  
+* The fear of God and therapeutic spirituality
+  :PROPERTIES:
+  :EXPORT_DATE: <2022-05-23 Mon>
+  :EXPORT_FILE_NAME: fear-of-God-and-therapeutic.md
+  :END:
+  [2022-04-19 Di] 
+  One of my favorite thinkers is Soren Kierkegaard. He is quite
+  creative and this is in large part because he is always theorizing
+  based on his own experiences and frustrations. He was no abstract
+  theorist and was deeply critical of ideas like some of those
+  proposed by Hegel that made the individual just part of the whole.
+  However, Kierkegaard stole an idea from Hegel (well actually more
+  than one). This was the notion of Aufhebung. It is a nuanced idea,
+  but more or less we can think of it as a consuming or transcending
+  of your opposite but in such away that it is persevered.
+  Kierkegaard made use of this notion in particular with his idea of
+  life stages. He spoke about the aesthetic, the ethical, and the
+  religious. Each of these contains the best of those below it
+  without their drawbacks. However, they are not exactly similar.
+  There is a qualitative shift in motivation and goal in each of
+  them.
+
+  This is sort of a funny introduction, but this idea of qualitative
+  shift is very useful. It is the kind of thing that we get stuck
+  with when we are devoted to something that is getting in the way of
+  what we want. For example, when you are really chasing the
+  productivity dragon and you have worn yourself out doing so, you
+  decide to take a rest to be more productive. However, you discover
+  over time that your rest is not able to do its job because you are
+  always trying to force it to well do a job for you. For rest to be
+  rest you would need to have a qualitative shift in understanding
+  it. Until you step out of your paradigm of work, rest will only ever
+  be just a strange kind of work. However, once you do, rest can be
+  the thing you have been needing it to be.
+
+  I think we can say something similar of the therapeutic's
+  relationship to the spiritual. To make a broad statement that
+  probably deserves a great deal of qualification, a dominant view of
+  the human endeavor these days is that of a sort of individualistic
+  pragmatic self-expression. It has a positive and negative form. On
+  the positive side there is the notion that we can make use of
+  anything that does not harm others to the pursuit of our happiness
+  and self actualization. A lot has been written about this already
+  so I will leave this aside for now. However, the negative side I
+  think is probably more of a daily companion for must of us. It is
+  more or less summed up by the phrase "do whatever gets you through
+  the day". Where on the one hand we have the idea of self-determined
+  self-expression on the other we have an ethic of existential pain
+  management.
+
+  With the dominant picture of human life being that it is beautiful,
+  tragic, meaningless, and only material. These two options are very
+  at home. They are reasonable responses to this picture. And this
+  picture is very persuasive. However, it leads to some funny things
+  in the world of faith. While many Christians would reject the view
+  of the world that sort of underwrites all of this we often approach
+  questions of faith still with the motivation of existential pain
+  management on the negative side and on the positive side the idea
+  of marketing the gospel. This is not just a liberal/conservative
+  issue. But I would not be surprised if liberals tended more
+  towards the notion of pain management and the conservatives more
+  towards marketing the gospel.
+
+  Now before going any further I want to say that I strongly believe
+  in be attentive to communicating the gospel well, and I also believe
+  that the truth has tremendous power to heal and that the gospel
+  even the very truth about existence itself is a word of healing to
+  the afflicted. I even suspect that this definition is helpful in
+  checking ourselves to make sure if we have understood it.
+
+  However, I want to point out a particular notion that it a good
+  litmus test of whether or not we have either a pragmatic or
+  therapeutic relationship to faith. This is the notion of God's
+  holiness. Now before going further I need to step back. Often God's
+  holiness is talked about in conversations about why he does not
+  tolerate sin. I don't disagree with this, but if we make this our
+  only discussion of holiness it will only be a sort of esoteric way
+  of referring to something more crassly put as the "rough edges" of
+  God. What I want to recover here is a sense of the overwhelming
+  wildness and tremendous immensity of God. The sort of terrifying
+  cliff-edge dizzyingness of the idea of the greatest, highest, most
+  important being in all of existence that has absolutely no need of
+  us but at the same time is deeply connected to and knowledgeable of
+  us. It is both the most foreign and familiar thing in all of existence.
+  Greater than any idea or picture we might ever come up with.
+
+  This is the subject of obedience and spirituality. Worshiping this
+  God is not something we do because it is good for us, but because
+  it is right. Following the words of this God are things that we
+  don't do just because they are good for us, but because he is the
+  one that defines reality itself. It is when we give self-concern in
+  these things up, though, that we find the greatest benefit to
+  ourselves. It is part of how seeking first the kingdom brings with
+  it all the other things that we strive for. The challenge though
+  returns us to the beginning of this: we have the challenge
+  of seeking God first not as a means but an end.
+
+  Though the good news is that God is merciful. Christ continually
+  reveals that he receives those merely looking for a healing of
+  their wounds and we should not expect that we are different than
+  those people. However, Christ is more than just salvation and that
+  is why gratitude make sense.  A bandage is used and forgotten, but
+  a free gift of healing requires a response.
+* Draft Characterizations of holiness			   :noexport:article:
+  :PROPERTIES:
+  :EXPORT_DATE: <2019-09-17 Tue>
+  :EXPORT_FILE_NAME: characterizations-of-holiness.md
+  :ID:       e87fe6bf-7c49-4457-a4aa-e8fc485608b7
+  :END:
+
+  What do we imagine a holy person being like? Not just in the
+  difficult decisions or in their beliefs but in day to day reality.
+  Are they ever anxious? Are they always kind and patient?
+
+  We have different ideas about this but some of them I think are a
+  little strange especially centering around the emotions and in some
+  cases the passions.
 
 
+** Sources and Research						   :noexport:
+   - [[id:a1a28bab-fa76-4924-817d-7235ae04ce8f][Two definitions of saintliness]]
+   - [[id:f141ee19-7b2d-489e-bf10-147c4f798a24][The spirituality of trusting the will of God as means to detachment]]
+   - [[id:8a40545a-94f9-4e31-8463-80b95abfad2e][Franny and Zooey idea of spirituality as detachment]]
+   - [[id:b7cdbc05-ac6b-4ea3-bd04-2d066ea78f8b][Calvin and Stoicism]]
+   - [[id:0129901b-16ee-4081-bb63-331e7b88540a][Will of God spirituality as means of detachment]]
+   - [[id:d381ecd9-4c41-44e8-9d8a-7f4e6d7b94ca][Knowing how to pray is knowing how to live]]
+   - [[id:8c181f72-ac39-4771-8c21-53d3fd3326cb][Mental Postures]]
+   - [[id:14526029-074a-4013-8651-ee525193a080][Prayer as focal practice has different goals from Buddhist meditation]]
+   - [[id:35746aaf-685a-4189-8e69-dae8508463ff][The two sides of holiness]]
+   - [[id:33866138-fa16-4d4f-a62f-0b094257948e][Gratitude Spirituality]]
+   - [ ] [[id:7226b0e6-5cfa-45d3-a13a-d205183b5839][For the Life of the World Notes]]
+   - [ ] [[id:8b2f92dc-f1f5-47a1-a907-629981170a22][Pieper Notes]]
+   - [ ] Places in well know Christian authors where holiness is
+     described like either calm or detachement or will of God
+     spirituality
+   - [[id:02e73516-2680-410c-80c0-f68aaf43119f][Philippians Talks about anxiety]]
 
-  
+     
+*** To consider 
+ #+BEGIN: tag-block :tags "emotion"
+ [[id:489a8562-eda2-4c06-bfdd-6218944269bc][Reason and Emotion ch 3]]
+ [[id:17f11948-6f39-4db4-9837-f21687240f9d][Reason and Emotion 4]]
+ 🖍 [[file:/home/aaronf/org/zettlekasten/unordered-book-notes.org::* Lectures on topic][Lectures on topic]]
+ 🖍 [[file:/home/aaronf/org/zettlekasten/unordered-book-notes.org::* Understanding Emotions - Part 1][Understanding Emotions - Part 1]]
+ 🖍 [[file:/home/aaronf/org/zettlekasten/unordered-book-notes.org::* Understanding Emotions - Part 2][Understanding Emotions - Part 2]]
+ [[id:b5997121-3c89-40b3-a17b-82520001d55e][The Pathologization of emotional experience]]
+ [[id:b38d641d-62c6-483e-929b-3cfdb82c50ab][Strategic Openness to emotion]]
+ [[id:a13c7b78-625d-466b-899d-d5fb62766504][Authenticity and Emotional Honesty]]
+ 🖍 [[file:/home/aaronf/org/zettlekasten/unordered_ideas.org::* Perception of God is maybe like having emotions. Numbing vs Pain.][Perception of God is maybe like having emotions. Numbing vs Pain.]]
+ 🖍 [[file:/home/aaronf/org/zettlekasten/unordered_ideas.org::* Are emotions possible if you know that they must change?][Are emotions possible if you know that they must change?]]
+ [[id:2dc73d1d-04b8-451e-a0df-018b14128ca0][Heart Language in Scripture]]
+ #+END
+
+     
+   
+   
 
 * Old Blog Posts                                                   :noexport:
 
 
-*Such Things As This*
+  *Such Things As This*
 /My attempt to reconcile myself to the world around me/
 
 ** Dead Mind April 22, 2014	
